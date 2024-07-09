@@ -1,6 +1,0 @@
-//remove IDE temp
-.idea
-
-node_modules
-.env
-*.log
